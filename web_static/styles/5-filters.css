@@ -5,6 +5,8 @@
     border: 1px solid #DDDDDD;
     border-radius: 4px;
     position: relative;
+    
+    
   }
 .search-button{
  font-size: 18px;
@@ -28,12 +30,16 @@
       width: 25%;
       display: inline-block;
       border-right: 1px solid #DDDDDD;
+      text-align: center; /* Center horizontally */
+
     }
 
 .amenities {
     height: 100%; 
     width: 25%;
     display: inline-block;
+    text-align: center; /* Center horizontally */
+
     }
 
 
