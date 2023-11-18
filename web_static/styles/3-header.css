@@ -1,11 +1,13 @@
 /* styles/2-header.css */
 
 header {
-    background-color: #FF0000;
-    height: 70px;
-    width: 100%;
-    text-align: center;
-    line-height: 70px;
-}
+	background-color: #FFFFFF;
+	height: 70px;
+	width: 100%;
+	border-bottom: 1px solid #CCCCCC;
+	background-image: url("../images/logo.png");
+	background-repeat: no-repeat, repeat;
+	background-position: 20px;
+       }
 
 
