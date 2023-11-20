@@ -32,9 +32,14 @@
     width: 25%;
     display: inline-block;
     border-right: 1px solid #DDDDDD;
-    text-align: center; /* Center horizontally */
+    text-align: left;
     position: relative;
+    margin-left: 30px; /* Add left margin */
 }
+.amenities {
+    border-right: 1px solid rgba(221, 221, 221, 0); /* Transparent right border */
+}
+
 
 .locations h3,
 .amenities h3 {
